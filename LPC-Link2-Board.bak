@@ -750,7 +750,7 @@ U 1 1 559D7D1D
 P 9200 1950
 F 0 "J6" H 9200 2450 50  0000 C CNN
 F 1 "CONN_01X09" V 9300 1950 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x09" H 9200 1950 60  0001 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x09" H 9200 1950 60  0001 C CNN
 F 3 "" H 9200 1950 60  0000 C CNN
 	1    9200 1950
 	1    0    0    1   
