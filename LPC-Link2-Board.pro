@@ -1,4 +1,4 @@
-update=2015年07月08日水曜日 20:46:25
+update=2015年08月21日金曜日 14:27:00
 last_client=kicad
 [general]
 version=1
@@ -11,3 +11,16 @@ LibName2=power
 LibName3=device
 LibName4=conn
 LibName5=logo
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60

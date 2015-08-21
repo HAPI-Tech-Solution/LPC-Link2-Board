@@ -67,11 +67,11 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.75)
     (pad_to_mask_clearance 0.2)
-    (aux_axis_origin 144.2466 117.6782)
-    (grid_origin 144.2466 117.6782)
+    (aux_axis_origin 141.7066 117.6782)
+    (grid_origin 141.7066 117.6782)
     (visible_elements FFFFFF7F)
     (pcbplotparams
-      (layerselection 0x01030_80000001)
+      (layerselection 0x01010_80000001)
       (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -94,7 +94,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory Gerv/))
+      (outputdirectory Gerv/Rev1/))
   )
 
   (net 0 "")
